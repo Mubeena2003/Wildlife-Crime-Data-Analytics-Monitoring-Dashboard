@@ -182,7 +182,7 @@ TNFWCCB-Wildlife-Crime-Data-Analytics/
 └── README.md
 ```
 
-![Uploading Sample DB.png…]()
+
 
 
 ## Note
