@@ -182,7 +182,7 @@ TNFWCCB-Wildlife-Crime-Data-Analytics/
 └── README.md
 ```
 
-
+![image alt](https://github.com/Mubeena2003/Wildlife-Crime-Data-Analytics-Monitoring-Dashboard/blob/87ab0df2b53e764d7f5d55c905c938bfa8a6851a/Sample%20DB.png)
 
 
 ## Note
