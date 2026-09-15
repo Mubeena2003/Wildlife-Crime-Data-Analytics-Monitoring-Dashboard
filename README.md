@@ -182,6 +182,9 @@ TNFWCCB-Wildlife-Crime-Data-Analytics/
 └── README.md
 ```
 
+![Uploading Sample DB.png…]()
+
+
 ## Note
 
 This project is intended to demonstrate data analytics, data quality, SQL, Python, Excel, and Power BI skills using a synthetic dataset. The project is not an official TNFWCCB system or dataset.
